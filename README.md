@@ -30,11 +30,11 @@ csv
 ### Table of Contents
 ---
 
-- Overview
-- steps of project
-- dataset
-- concolusion
-- end
+- [Overview](#Overview)
+- [steps of project](#steps-of-project)
+- [dataset](#dataset)
+- [concolusion](#concolusion)
+- [end](#end)
 
 ---
 ## Overview :point_left:
@@ -106,4 +106,5 @@ Try and suggest questions that promote looking at relationships between multiple
 
 ---
 
+## end :raising_hand:
 
