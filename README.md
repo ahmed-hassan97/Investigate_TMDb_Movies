@@ -2,8 +2,9 @@
 
 ---
 
-<img src = "./images/mat.png" width = "800px" height = "500px" text-align = "center">
-
+<p align = "center">
+<img src = "./images/mat.png" >
+</p>
 ---
 
 ### Table of Contents
