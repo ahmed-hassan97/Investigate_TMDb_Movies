@@ -2,7 +2,7 @@
 
 ---
 
-<img src = "./images/mat.png" width = "300px" height = "300px" align = "center">
+<img src = "./images/mat.png" width = "600px" height = "600px" align = "center">
 
 ---
 
