@@ -1,4 +1,4 @@
-## ** Investigate_TMDb_Movies  ** 
+## **Investigate_TMDb_Movies** 
 
 ---
 ###### Project Overview
@@ -12,7 +12,7 @@ In this project, you will analyze a dataset and then communicate your findings a
 </p>
 
 ---
-###### What do I need to install?
+## What do I need to install?
 ```
 pandas
 NumPy
