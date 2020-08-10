@@ -69,13 +69,20 @@ You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writin
 
 ## steps of project
 
+- Choose Your Data Set [dataset]
+- Get Organized []
+- data cleaning []
+- Analyze Your Data []
+- visualize data []
+
+
 ---
 
 ## dataset
 
 Click this link [dataset](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf) to open a document with links and information about data sets that you can investigate for this project. You must choose one of these datasets to complete the project.
 
-### link TMDb_Movies dataset [click](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv.) 
+###### link TMDb_Movies dataset [click](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv.) 
 
 ---
 
