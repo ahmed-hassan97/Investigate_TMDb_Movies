@@ -70,9 +70,10 @@ You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writin
 ## steps of project
 
 - [Choose Your Data Set](#dataset)
-- [data cleaning] (#data-cleaning)
-- [Analyze Your Data] (#Analyze-Your-Data)
-- [visualize data] (#visualize-data)
+- [data cleaning](#data-cleaning)
+- [question about data](#question-about-data)
+- [Analyze Your Data](#Analyze-Your-Data)
+- [visualize data](#visualize-data)
 
 
 ---
