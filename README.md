@@ -70,10 +70,9 @@ You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writin
 ## steps of project
 
 - [Choose Your Data Set](#dataset)
-- Get Organized []
-- data cleaning []
-- Analyze Your Data []
-- visualize data []
+- [data cleaning] [#data-cleaning]
+- [Analyze Your Data] (#Analyze-Your-Data)
+- [visualize data] (#visualize-data)
 
 
 ---
@@ -83,6 +82,22 @@ You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writin
 Click this link [dataset](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf) to open a document with links and information about data sets that you can investigate for this project. You must choose one of these datasets to complete the project.
 
 ###### link TMDb_Movies dataset [click](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv.) 
+
+---
+
+## data cleaning
+
+---
+
+## Analyze Your Data
+
+Brainstorm some questions you could answer using the data set you chose, then start answering those questions. You can find some questions in the data[](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf) set options to help you get started.
+
+Try and suggest questions that promote looking at relationships between multiple variables. You should aim to analyze at least one dependent variable and three independent variables in your investigation. Make sure you use NumPy and pandas where they are appropriate!
+
+---
+
+## visualize data
 
 ---
 
