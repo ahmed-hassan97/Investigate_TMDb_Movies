@@ -1,9 +1,9 @@
-# Investigate_TMDb_Movies 
+##                                                     Investigate_TMDb_Movies 
 
 ---
 
 <p align = "center">
-<img src = "./images/mat.png" >
+<img src = "./images/mat.png" />
 </p>
 ---
 
