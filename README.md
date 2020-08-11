@@ -88,6 +88,20 @@ Click this link [dataset](https://s3.amazonaws.com/video.udacity-data.com/topher
 
 ## data cleaning
 
+- drop duplicated
+```
+   df.drop_duplicates(inplace= True)
+```
+- fill non value with mean
+
+```
+   df.dropna(inplace=True)
+
+```
+
+- fix data format
+
+
 ---
 
 ## Analyze Your Data
@@ -98,13 +112,6 @@ Try and suggest questions that promote looking at relationships between multiple
 
 ---
 
-## visualize data
-
----
-
-## concolusion
-
----
 
 ## end :raising_hand:
 
